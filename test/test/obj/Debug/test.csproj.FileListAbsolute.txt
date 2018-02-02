@@ -1,0 +1,12 @@
+E:\project\2008\test\test\obj\Debug\ResolveAssemblyReference.cache
+E:\project\2008\test\test\obj\Debug\test.Form1.resources
+E:\project\2008\test\test\obj\Debug\test.Properties.Resources.resources
+E:\project\2008\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+E:\project\2008\test\test\bin\Debug\test.exe
+E:\project\2008\test\test\bin\Debug\test.pdb
+E:\project\2008\test\test\obj\Debug\test.exe
+E:\project\2008\test\test\obj\Debug\test.pdb
+E:\project\2008\test\test\bin\Debug\test.exe.manifest
+E:\project\2008\test\test\bin\Debug\test.application
+E:\project\2008\test\test\obj\Debug\test.exe.manifest
+E:\project\2008\test\test\obj\Debug\test.application
